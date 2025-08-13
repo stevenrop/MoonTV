@@ -1,5 +1,15 @@
 {
-  "cache_time": 7200,
+            "key": "小苹果",
+            "name": "小苹果",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/pingguo.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+ "cache_time": 7200,
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
